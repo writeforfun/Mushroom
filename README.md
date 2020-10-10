@@ -1,4 +1,3 @@
-# Typhoon
-Classify Typhoon/Non-Typhoon
+# Mushroom
+Classify toxical mushroom
 
-Import basic CNN first from Keras
