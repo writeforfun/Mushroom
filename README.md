@@ -1,4 +1,4 @@
 # Typhoon
 Classify Typhoon/Non-Typhoon
 
-Try basic CNN first
+Import basic CNN first!
